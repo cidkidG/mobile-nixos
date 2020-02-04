@@ -15,7 +15,7 @@ in
 		file = "Image.gz-dtb";
 		hasDTB = true;
 				
-		version = "4.4.211";
+		version = "4.4.211-lineage";
 		src = fetchFromGitHub {
 			owner = "android-linux-stable";
 			repo = "op5";
